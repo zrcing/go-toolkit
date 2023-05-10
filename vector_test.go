@@ -1,4 +1,4 @@
-package go_toolkit
+package toolkit
 
 import (
 	"github.com/stretchr/testify/assert"

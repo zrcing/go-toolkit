@@ -1,4 +1,4 @@
-package go_toolkit
+package toolkit
 
 func InVectors[T comparable](x T, vectors Vector[T]) bool {
 	return vectors.Contains(x)
