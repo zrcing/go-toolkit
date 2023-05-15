@@ -1,4 +1,4 @@
-package toolkit
+package vector
 
 func InVectors[T comparable](x T, vectors Vector[T]) bool {
 	return vectors.Contains(x)
